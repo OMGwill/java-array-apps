@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=values\ size
+comment0.target=void\ printArray(int[],\ int)
+comment0.text=\r\n\ \ \ \ A\ method\ to\ print\ out\ the\ elements\ in\ an\ array,\ separated\ by\ ``|''\r\n\ \ \ \ @param\ values,\ an\ array\ of\ integers\r\n\ \ \ \ @param\ size,\ the\ actual\ number\ in\ array\ ``values''\r\n
+comment1.params=values\ size
+comment1.target=void\ tripleArray(int[],\ int)
+comment1.text=\r\n\ \ \ \ A\ method\ to\ triple\ all\ the\ elements\ in\ an\ array\r\n\ \ \ \ @param\ values,\ an\ array\ of\ integers\r\n\ \ \ \ @param\ size,\ the\ actual\ number\ in\ array\ ``values''\r\n
+comment2.params=values\ size
+comment2.target=void\ reverseElements(int[],\ int)
+comment2.text=\r\n\ \ \ \ A\ method\ to\ reverse\ all\ the\ elements\ in\ an\ array.\r\n\ \ \ \ @param\ values,\ an\ array\ of\ integers\r\n\ \ \ \ @param\ size,\ the\ actual\ number\ in\ array\ ``values''\r\n
+comment3.params=values\ size
+comment3.target=void\ swapMiddleElements(int[],\ int)
+comment3.text=\r\n\ \ \ \ A\ method\ to\ swap\ middle\ elements\ in\ an\ array.\r\n\ \ \ \ For\ an\ array\ of\ odd\ length,\ you\ don't\ need\ to\ swap.\r\n\ \ \ \ For\ an\ array\ of\ even\ length,\ there\ are\ TWO\ middle\ values,\ so\ swap.\r\n\ \ \ \ @param\ values,\ an\ array\ of\ integers\r\n\ \ \ \ @param\ size,\ the\ actual\ number\ in\ array\ ``values''\r\n
+comment4.params=
+comment4.target=void\ main()
+numComments=5
